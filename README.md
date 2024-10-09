@@ -1,3 +1,3 @@
-# AMX
+# Cpp-Zig template project
 
-AMX is Ametyx's proprietary engine
+This project creates a basic c++ project with a zig build system.
