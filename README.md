@@ -1,2 +1,3 @@
-# zig_cpp_starter
-Starter code for a Cpp library with Zig build system
+# AMX
+
+AMX is Ametyx's proprietary engine
